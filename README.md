@@ -9,6 +9,8 @@ Example rule you can found in examples folder.
 
 Tested on IDA 7.5+
 
+![example gif](examples/example.gif)
+
 ## Installation
 
 Copy plugin to your **IDA_HOME/plugins** folder and install dependencies.
