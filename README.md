@@ -15,7 +15,7 @@ Tested on IDA 7.5+
 
 Copy plugin to your **IDA_HOME/plugins** folder and install dependencies.
 ~~~
-    pip install capstone tabulate
+    pip install capstone tabulate plyara
 ~~~
 
 ## How it work ?
